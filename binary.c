@@ -1,3 +1,10 @@
+/*
+program header
+1.objective : write a C code to check number of 1's in the binary equivalent of a given number.
+2.Revisions : Nil
+3.Date & time of revesion : 02/10/24
+4.Author Name : Amal c
+*/
 #include <stdio.h>
 int main()
 {
