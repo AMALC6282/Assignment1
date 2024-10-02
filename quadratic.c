@@ -1,3 +1,10 @@
+/*
+program header
+1.objective : write a C code to evaluate quadratic equation.capture coefficients from user.
+2.Revisions : Nil
+3.Date & time of revesion : 02/10/24
+4.Author Name : Amal c
+*/
 #include <stdio.h>
 #include <math.h>
 int main() 
